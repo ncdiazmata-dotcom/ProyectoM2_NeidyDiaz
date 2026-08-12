@@ -7,7 +7,14 @@
   },
   "servers": [
     {
-      "url": "http://localhost:3000"
+      "url": "https://proyectom2neidydiaz-production.up.railway.app",
+      "description": "Servidor de producción en Railway"
+    },
+
+    {
+      "url": "http://localhost:3000",
+      "description": "Servidor en desarrollo"
+    
     }
   ],
   "paths": {
